@@ -1,3 +1,19 @@
+"""
+git init 
+git add .
+git commit -m "Initial comment"
+
+git remote add orgint https://github.com/Naveen-1973/my-chatbot-project.git
+git branch -M main
+git push -u origin main
+##after executing above file is added in github
+
+
+
+"""
+
+
+
 import os
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
