@@ -8,6 +8,11 @@ git branch -M main
 git push -u origin main
 ##after executing above file is added in github
 
+##after i modified file in github directly
+then i used "git pull" command what changes i did that added in my local also
+
+git push snd pull working fine
+
 
 
 """
