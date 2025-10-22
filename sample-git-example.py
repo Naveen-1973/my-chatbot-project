@@ -3,7 +3,7 @@ git init
 git add .
 git commit -m "Initial comment"
 
-git remote add orgint https://github.com/Naveen-1973/my-chatbot-project.git
+git remote add origin https://github.com/Naveen-1973/my-chatbot-project.git
 git branch -M main
 git push -u origin main
 ##after executing above file is added in github
@@ -14,8 +14,8 @@ then i used "git pull" command what changes i did that added in my local also
 git push snd pull working fine
 
 
-
-"""
+ 
+""" 
 
 
 
