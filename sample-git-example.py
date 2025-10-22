@@ -13,6 +13,12 @@ then i used "git pull" command what changes i did that added in my local also
 
 git push snd pull working fine
 
+after this i modified in py file and then need to push in github,  below commands
+
+git status
+git add .
+git commit -m "description"
+git push
 
  
 """ 
